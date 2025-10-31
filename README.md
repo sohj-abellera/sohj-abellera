@@ -4,9 +4,9 @@
 
 ### A passionate Front-End Developer exploring full-stack web development (MERN)
 
-- 🔭 I'm currently working on **Best Aluminum Sales Corps. v2 (MERN)**
+- 🔭 I'm currently working on **Best Aluminum Sales Corps. v2**
 
-- 🌱 I'm currently learning **React (with Vite), Tailwind CSS, Node.js, and MongoDB (MERN Stack)**
+- 🌱 I'm currently strengthening my core web development skills in HTML, CSS, and JavaScript before diving deeper into frameworks and libraries**
 
 - 📫 How to reach me: [carlojoshua.abellera.ph@gmail.com](mailto:carlojoshua.abellera.ph@gmail.com)
 
