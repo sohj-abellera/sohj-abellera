@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working on **Best Aluminum Sales Corps. v2**
 
-- 🌱 I'm currently strengthening my core web development skills in HTML, CSS, and JavaScript before diving deeper into frameworks and libraries**
+- 🌱 Currently improving my **HTML, CSS, and JavaScript** skills before moving to frameworks
 
 - 📫 How to reach me: [carlojoshua.abellera.ph@gmail.com](mailto:carlojoshua.abellera.ph@gmail.com)
 
