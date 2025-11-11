@@ -4,9 +4,7 @@
 
 ### A passionate Front-End Developer exploring full-stack web development (MERN)
 
-- 🔭 I'm currently working on **Best Aluminum Sales Corps. v2**
-
-- 🌱 Currently improving my **HTML, CSS, and JavaScript** skills before moving to frameworks
+- 🔭 I'm currently working on **some stuff... y-yeah**
 
 - 📫 How to reach me: [carlojoshua.abellera.ph@gmail.com](mailto:carlojoshua.abellera.ph@gmail.com)
 
