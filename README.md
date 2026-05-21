@@ -8,7 +8,7 @@
 ---
 
 ### 🌐 Portfolio
-For now this is my portfolio website, fully front end for now -> [I am the link hehe](https://sohj-abellera.github.io/portfolio/)
+For now this is my portfolio website, fully front end for now -> [I am the link hehe](https://soooohhhhjj.github.io/portfolio/)
 
 ### 📄 Resume
 I am also now looking for a job as well, here is my general resume for your review -> [it is I, the resume link](https://drive.google.com/file/d/1SUofuKWRSZh4mON5ofs0WxmIww4lb6tv/view?usp=drive_link)
