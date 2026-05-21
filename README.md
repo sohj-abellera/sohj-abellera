@@ -1,13 +1,17 @@
 # Hi 👋, I'm Josh (sohj)
+🎓 BS IT graduate focused on frontend development, currently working my way into full-stack with MERN.
 
-🎓 BS Information Technology graduate passionate about building user-friendly web apps and learning modern full-stack development.
+### What I'm up to
+- 🔭 Rebuilding my portfolio from scratch with full-stack features
+- ⛪ Planning a church website for music ministry — lyrics, chords, and media management
 
-### A Front-End Developer exploring full-stack (MERN)
+---
 
-- 🔭 Currently working on: **personal projects and improving my portfolio**
-- 📫 Email: carlojoshua.abellera.ph@gmail.com
-- 🌐 Portfolio: https://sohj-abellera.github.io/portfolio/
-- 📄 Resume: https://drive.google.com/file/d/1qWT3LjpeOdS7U4JOl9eOkwGdJATzmgWa/view
+### 🌐 Portfolio
+For now this is my portfolio website, fully front end for now -> [I am the link hehe](https://sohj-abellera.github.io/portfolio/)
+
+### 📄 Resume
+I am also now looking for a job as well, here is my general resume for your review -> [it is I, the resume link](https://drive.google.com/file/d/1SUofuKWRSZh4mON5ofs0WxmIww4lb6tv/view?usp=drive_link)
 
 ---
 
@@ -25,8 +29,5 @@
 
 ### 🛠 Languages and Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,php,sass,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,php,tailwind" />
 </p>
-
----
-
